@@ -56,7 +56,7 @@ Add the Travel Deals MCP to your AI agent's configuration.
 {
   "mcpServers": {
     "travel-deals": {
-      "url": "https://travel-deals.mcp.site/mcp"
+      "url": "https://travel-deals.mcp-site/mcp"
     }
   }
 }
