@@ -1,4 +1,4 @@
-# Travel Deals MCP
+# Travel Deals MCP - BETA nothing is up yet!
 
 🧳 AI-Agent Discoverable Vacation Deals
 
