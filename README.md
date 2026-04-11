@@ -37,29 +37,15 @@ We're curating the best resort packages and vacation deals. Check back soon or c
 
 Add the Travel Deals MCP to your AI agent's configuration.
 
-### Local (STDIO)
-
 ```json
 {
   "mcpServers": {
     "travel-deals": {
-      "command": "npx",
-      "args": ["-y", "travel-deals-mcp"]
+      "url": "https://travel-deals-mcp.site/mcp"
     }
   }
 }
-```
 
-### Remote (HTTP)
-
-```json
-{
-  "mcpServers": {
-    "travel-deals": {
-      "url": "https://travel-deals-mcp-site/mcp"
-    }
-  }
-}
 ```
 
 ---
