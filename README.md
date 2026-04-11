@@ -1,4 +1,4 @@
-# Travel Deals MCP - BETA nothing is up yet!
+# Travel Deals MCP - BETA -
 
 🧳 AI-Agent Discoverable Vacation Deals
 
@@ -27,10 +27,9 @@ Click the deal link in the AI agent's response and book directly with the travel
 
 ## Current Deals
 
-🌴 **Deals Coming Soon**
+🌴 Add the MCP server and discover deals.
 
-We're curating the best resort packages and vacation deals. Check back soon or connect the MCP to get notified when deals go live.
-
+We're curating the best resort packages and vacation deals.
 ---
 
 ## Connect to Your AI
@@ -61,7 +60,6 @@ Add the Travel Deals MCP to your AI agent's configuration.
 ## Resources
 
 - 🌐 **Landing Page:** https://travel-deals-mcp.site
-- 🧩 **MCP Registry:** (coming soon)
 - 📂 **GitHub:** https://github.com/shokjak/travel-deals-mcp
 - 🔌 **MCP Protocol Docs:** https://modelcontextprotocol.io
 
